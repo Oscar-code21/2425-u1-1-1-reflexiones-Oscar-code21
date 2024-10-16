@@ -78,3 +78,48 @@ Apoyate en los siguientes recursos para realizar la práctica:
    - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
 4. **Compilación y Ejecución:**
    - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
+
+
+
+
+
+# P1.10: Reflexión y Discursión sobre los resultados
+
+# Indice
+
+## 1.Relación software y hardawre
+   
+   ### Primera Parte
+   ### Segunda Parte
+
+## 2. Del código fuente al Ejecutable
+
+## 3. Generación del Código
+
+## 4. Lenguaje de Programación
+   ### Primera Parte
+   ### Segunda Parte
+   ### Tercera Parte
+   ### Reflexión Final
+
+## 5. Herramientas de Desarrollo 
+   ## Primera Parte 
+   ## Segunda Parte
+   ## Reflexión Final
+
+
+
+# 1. Relación Software y Hardware
+   ### Primera Parte
+   1.1.1 ¿Cómo se ejecuta el código en el procesador?
+   Realizando los calculos necesarios para que el código se pueda ejecutar
+   
+   1.1.2 ¿Qué hace la Memoria Ram con la información del Boton o del Led?
+   Ejecutar la información que le proporciona al pulsar el boton o el LED
+   
+   1.1.3 ¿Cómo se comunica los periféricos (Botón y Led) con el procesador?
+   Atraves de Buses de Datos
+
+   ### Segunda Parte
+
+   1.2.1 ¿Cómo interactúan el procesador, la memoria y los periféricos en la ejecución del programa? 
