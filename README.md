@@ -123,3 +123,47 @@ Apoyate en los siguientes recursos para realizar la práctica:
    ### Segunda Parte
 
    1.2.1 ¿Cómo interactúan el procesador, la memoria y los periféricos en la ejecución del programa? 
+   Los periféricos le proporciona información al procesador para ejecute esa información y la memoria guarda dicha información.
+   1.2.2 ¿Qué pasa con los datos en la memoria cuando el programa se ejecuta?
+   Pues que se almacena todo en la memoria 
+   1.2.3 ¿Qué roles juegan las instrucciones del software en esta interacción?
+   Pues el software es el que da las indicaciones para que se realiza la tarea de una manera especifica
+   1.2.4 ¿Cómo se relaciona esta simulación con lo que ocurre en un ordenador real
+
+   # 2. Del código fuente al ejecutable
+   2.1 ¿Cómo se diferencia el código fuente del código objeto y del ejecutable?
+   Código fuente:  es el conjunto de instrucciones que el programador escribe utilizando un lenguaje de programación
+   Código objeto: es el traductor de esas instrucciones 
+   Código ejecutable: es la instrucción traducida
+   2.2 ¿Por qué el ordenador no puede entender el código fuente directamente?
+   Porque los ordenadores solamente comprenden la serie de unos y ceros que seria el lenguaje de maquina
+   2.3 ¿Por qué es importante el paso de enlazado en la creación de programas?
+   Porque es la que contiene las bibliotecas neceserias para que el programa se ejecute y es la que une todos los archivos de código objeto en uno para que se puedan ejecutar
+   2.4 ¿ Qué ocurre si falta alguna de las etapas (código objeto o ejecutable)?
+   Si falta el código objeto nadie traduce todas las intrucciones del código fuente y a su vez no se podria ejecutar
+
+   # 3.Generación de Código intermedio
+   3.1 ¿ ómo difiere el código intermedio del código ejecutable tradicional?
+   Que el código intermedio puede ser ejecutado por muchas maquinas y el ejecutable en una sola.
+   3.2 ¿Por qué es útil tener una máquina virtual?
+   Porque es el encargado de ejecutar el código intermedio, traduciendo el código a instrucciones que el procesado pueda entender, un interprete
+   3.3 ¿Qué ventajas ofrece el código intermedio? Ofrece portabilidad, Seguridad y optimización en tiempo de uso
+   3.4 ¿Además de java, qué otros lenguajes usan máquinas virtuales? Kotlin, C#, Groovy, Scala, jRuby.  https://www.computerweekly.com/es/cronica/Los-desarrolladores-prefieren-los-lenguajes-JVM-para-dispositivos-moviles-y-empresas#:~:text=La%20JVM%20admite%20una%20gran,%2C%20Pizza%2C%20Pnuts%20y%20Xtend.
+   # 4.Lenguaje de Programación
+
+   ## Primera parte
+   4.1.1 ¿ Qué diferencias notaron en el proceso de compilación frente a la ejecución directa?
+   
+   4.1.2 ¿Qué pasa si hay un error de sintaxis en cada lenguaje? ¿Cuándo se detecta el error?
+  Pues que el código que has introducido esta mal y el propio programa te suele indicar donde esta el error, El error se detecta al ejecutar el código.
+  ## Segunda Parte
+  4.2.1 ¿Qué notaron sobre la abstracción entre los lenguajes de alto nivel y bajo nivel?
+Pues que los de alto nivel son mas faciles de entender por los humanos y los de bajo nivel estan mas cerca del lenguaje de maquina
+ 4.2.2 ¿Qué ventajas y desventajas encontraron en cada uno?
+  Alto Nivel: Ventajas: Los códigos son mas sencillos y entendible, puedes escribir programas mas dificiles en menos lineas, el código puede ser utiliza en diferentes sistemas
+            Desventajas:Su rendimiento tiene una nlimitación y son mas lentos
+  Bajo Nivel: Ventajas: Que es muy rapido, es adaptable y los códigos son faciles
+            Desventajas: Al escribir el código es mas probable que te equivoques al ser mas tipo maquina.
+  ## Tercera parte
+  4.3.1 ¿Cómo funciona la organización de datos en Java usando objetos y métodos?
+  
