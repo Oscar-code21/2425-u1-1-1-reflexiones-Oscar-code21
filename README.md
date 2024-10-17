@@ -162,6 +162,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 
    ## Primera parte
    4.1.1 ¿ Qué diferencias notaron en el proceso de compilación frente a la ejecución directa?
+   El proceso de copilación te  lo ejecuta todo de golpe y en la ejecución directa la ejecuta línea por línea
    
    4.1.2 ¿Qué pasa si hay un error de sintaxis en cada lenguaje? ¿Cuándo se detecta el error?
   Pues que el código que has introducido esta mal y el propio programa te suele indicar donde esta el error, El error se detecta al ejecutar el código.
