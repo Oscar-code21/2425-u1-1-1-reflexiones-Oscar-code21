@@ -180,5 +180,5 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   4.3.1 ¿Cómo funciona la organización de datos en Java usando objetos y métodos?
   Defininiendo las variables orientada a todos los objetos de un cierto tipo.
 
-  4.3.2 ¿
+  4.3.2 ¿Cómo es diferente trabajar en un enfoque funcional de python
   
