@@ -225,10 +225,9 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   Sistemas de Gestión de Versiones: Permitir trabajar en equipo de manera eficiciente y segura
 
   5.1.4 Elige una ¿Cómo es la experiencia de usuario al usarla? ¿Es fácil o compleja?
-  Editor de Texto: Pues tienes conocer muchos comandos para que sea mas ligero y flexible y es super sencillo, si conoces mucho los comandos es facil, si no se te puede hacer complejo
+  Editor de Texto: Pues tienes conocer muchos comandos para que sea mas ligero y fluido y ser mas sencillo, si conoces mucho los comandos es facil, si no se te puede hacer complejo
 
   5.1.5 Elige una ¿En qué situaciones sería ideal utilziar esta herramienta?
-  
-  
+  Compiladores: Para crear programas que sean mas eficientes y rapidos y traducir el código fuente  de un proyecto de software a código maquina antes de ejecutarlo https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/compilador-e-interprete/#:~:text=%C2%BFQu%C3%A9%20es%20un%20compilador%3F,c%C3%B3digo%20m%C3%A1quina%20antes%20de%20comenzar.
   
   
