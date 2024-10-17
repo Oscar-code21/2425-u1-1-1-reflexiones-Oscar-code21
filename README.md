@@ -191,4 +191,7 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   4.4.2 ¿En que casos es preferible usar un lenguaje compilado frente a uno interpretetado?
   Cuando quieras ser mas eficiente, porque el lenguaje copilado esta traducido y la velocidad es mayor al ejecutar toda la instrucción completa en vez de línea por línea
   
+  4.4.3 ¿ Cuándo es mejor usar lenguaje de alto nivel en lugar de uno de bajo nivel?
+  Cuando quieres que un humano lo entienda y sea mas sencillo de escribir y abstracto para el.
   
+  4.4.4 ¿Como se siente trabajar con el paradigma orientado a objetos en comparación con el imperativo o funcional?
