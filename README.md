@@ -186,5 +186,6 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
 
   # 4.4 Reflexión Final
   4.4.1 ¿Qué lenguajes se sintieron mas faciles de utilizar? ¿Por qué?
+  Lenguaje de alto nivel, porque son mas sencillo de escribir y entendible por los humanos y son muchos mas funcionales.
   
   
