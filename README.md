@@ -180,5 +180,11 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   4.3.1 ¿Cómo funciona la organización de datos en Java usando objetos y métodos?
   Defininiendo las variables orientada a todos los objetos de un cierto tipo.
 
-  4.3.2 ¿Cómo es diferente trabajar en un enfoque funcional de python
+  4.3.2 ¿Cómo es diferente trabajar en un enfoque funcional en paython, usando funciones puras?
+  Pues que son mas faciles de entender y depurar, porque nunca cambian el estado de un programa y siempre es el mismo resultado.
+  https://apuntes.de/python/programacion-funcional-en-python-enfoque-modular-y-reutilizable/#gsc.tab=0
+
+  # 4.4 Reflexión Final
+  4.4.1 ¿Qué lenguajes se sintieron mas faciles de utilizar? ¿Por qué?
+  
   
