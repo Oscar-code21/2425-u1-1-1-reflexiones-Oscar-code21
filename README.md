@@ -230,4 +230,34 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   5.1.5 Elige una ¿En qué situaciones sería ideal utilziar esta herramienta?
   Compiladores: Para crear programas que sean mas eficientes y rapidos y traducir el código fuente  de un proyecto de software a código maquina antes de ejecutarlo https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/compilador-e-interprete/#:~:text=%C2%BFQu%C3%A9%20es%20un%20compilador%3F,c%C3%B3digo%20m%C3%A1quina%20antes%20de%20comenzar.
   
+  5.1.6 Elige una ¿Qué limitaciones encontraste en la herramienta?
+  El problema de formato, Compatibilidad entre plataformas, como no los guardes puedes perder los datos, complejidad de comandos y de las diferentes herramientas
+
+  # Segunda parte
+
+  5.2.1. ¿Qué herramienta se considera más útil y por qué?
+  A mi me parece que un editor de texto es mas útil que una herramienta de documentación porque consume pocos recursos y al momento de la edición son rapidos
+
+  5.2.2 ¿Qúe ventaja tiene una sobre otra?
+  pues que es mucho mas flexible, consume poco, permite comparar archivos con es el caso de notepad++ y pluggins para añadir soporte a mas lenguaje
+
+  5.2.3 ¿ Cuál herramienta resultó ser la más intuitiva y por qué?
+  para mi los interpretes porque al escribir el código y darle a reproducir ese código te lo interpreta línea por línea instantaneo 
+
+  5.2.4 ¿En qué casos se recomendaría usar un compilador en lugar de un intérprete?
+  En el caso que quiera un código objeto mas optimo y que se pueda ejecutar de manera eficiente que gracias a ello la ejecución es mas veloz
+
+  5.2.5 ¿Qué tipo de proyectos se beneficiarían más de un framework como Django?
+  En la creación de aplicaciones web, en la creación de base de datos, formularios, administrar un lugar
+
+  # Reflexión Final
+  5.3.1 ¿Cómo crees que impacta la elección de la herramienta en la calidad del software?
+Pues dependiendo impactara mas fuerte o no hay herramientas que no necesitas mucho esfuerzo del software y despues hay otra que son mas pesadas
+  
+  5.3.2 ¿Qué características buscarías en una herramienta para facilitar tu flujo de trabajo?
+  Que sean optimas, rapidas, que sean flexibles, que contenga control sobre la ejecución de los códigos, facilitación de la edición del código
+
+  5.3.3 ¿Cómo cambió tu percepción de estas herramientas después de haberlas probado y evaluado?
+  Pues sabiendo que nunca habia utilizado ninguna herramienta excluyendo notepad++, cambio para bien porque es solo adaptarse y estar concentrado en lo que haces para que todo vaya fluido y sin problemas.
+
   
