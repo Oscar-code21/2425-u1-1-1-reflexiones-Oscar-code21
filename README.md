@@ -189,6 +189,6 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   Lenguaje de alto nivel, porque son mas sencillo de escribir y entendible por los humanos y son muchos mas funcionales.
 
   4.4.2 ¿En que casos es preferible usar un lenguaje compilado frente a uno interpretetado?
-  
+  Cuando quieras ser mas eficiente, porque el lenguaje copilado esta traducido y la velocidad es mayor al ejecutar toda la instrucción completa en vez de línea por línea
   
   
