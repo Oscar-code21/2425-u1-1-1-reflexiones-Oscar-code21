@@ -195,3 +195,40 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   Cuando quieres que un humano lo entienda y sea mas sencillo de escribir y abstracto para el.
   
   4.4.4 ¿Como se siente trabajar con el paradigma orientado a objetos en comparación con el imperativo o funcional?
+  Se siente mas intuitivo, una organización mas lógica y comprensiva del software   https://immune.institute/blog/programacion-orientada-a-objetos/#:~:text=El%20paradigma%20orientado%20a%20objetos,sistemas%20de%20manera%20m%C3%A1s%20intuitiva.
+
+  # 5. Herramientas de Desarrollo
+  ### Primera Parte
+
+  5.1.1 ¿Qué hace cada una de las herramientas?
+  Software: donde se almacena el conjunto de instrucciones y datos en formato binario
+  Editor de Texto: Escribe y modifica el código fuente de los programas
+  Compiladores: Traducir el código fuente escrito en lenguajes como C o C++ a código máquina
+  Herramientas de documentacíon: Mantiene la claridad del código y facilitar su comprensión
+  Depuradores: Detienen la ejecución de un programa en puntos específicos y examinar su estado interno
+  Sistemas de Gestión de Versiones: Rastrean los cambios en el código, trabajar en diferentes ramas de desarrollo y colaborar sin riesgo de sobrescribir el trabajo de otros
+
+  5.1.2 ¿Qué tipo de tareas facilitas?
+  Software: Almacenar Instrucciones y datos en formato binario
+  Editor de texto: Escribir y modificar el código fuente
+  Compiladores: Traducir el Código fuente
+  Herramientas de documentación: Mantener claro el código y facilitar su comprensión
+  Depuradores: Detener la ejecución
+  Sistemas de Gestión de Versiones: Rastrear, trabajar y colaborar.
+
+  5.1.3  ¿Qué características ofrece que la hacen única o diferente de otras herramientas similares?
+  Software: Seguridad, Compatibilidad, transferibilidad, usabilidad,segurida etc
+  Editor de Texto: Ligereza y Flexibilidad
+  Compiladores:Generan código ejecutable de alto rendimiento y ofrecen más control sobre la optimización del código
+  Herramienta de documentación: Aseguran tener todo actualizado con el código y Reducen el esfuerzo manual 
+  Depuradores: Encontrar mas facil los errores complejos y ver el estado del código en tiempo real
+  Sistemas de Gestión de Versiones: Permitir trabajar en equipo de manera eficiciente y segura
+
+  5.1.4 Elige una ¿Cómo es la experiencia de usuario al usarla? ¿Es fácil o compleja?
+  Editor de Texto: Pues tienes conocer muchos comandos para que sea mas ligero y flexible y es super sencillo, si conoces mucho los comandos es facil, si no se te puede hacer complejo
+
+  5.1.5 Elige una ¿En qué situaciones sería ideal utilziar esta herramienta?
+  
+  
+  
+  
