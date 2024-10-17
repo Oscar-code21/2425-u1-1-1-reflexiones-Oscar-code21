@@ -18,12 +18,12 @@ Apoyate en los siguientes recursos para realizar la práctica:
 - **Fecha de Creación:** [Fecha de creación]
 - **Fecha de Entrega:** [Fecha de entrega]
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
+  - **Nombre y Apellidos:** [Óscar Arriaza Gómez]
   - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Iniciales del Alumno/Grupo:** [OAG]
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+[Deberemos responde a las siguientes preguntas relacionadas con el desarrollo software]
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
