@@ -13,7 +13,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 Práctica 1: Introducción al desarrollo. Reflexiones.
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
+- **ID de la Actividad:** [https://github.com/IES-Rafael-Alberti/2425-u1-1-1-reflexiones-Oscar-code21]
 - **Módulo:** [EDES] (`PROG`, `IS`, `EDES`, etc.)
 - **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
 - **Fecha de Creación:** [Fecha de creación]
