@@ -15,7 +15,7 @@ Práctica 1: Introducción al desarrollo. Reflexiones.
 ## Identificación de la Actividad
 - **ID de la Actividad:** [https://github.com/IES-Rafael-Alberti/2425-u1-1-1-reflexiones-Oscar-code21]
 - **Módulo:** [EDES] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
+- **Unidad de Trabajo:** [Unidad 1 - Introducción al desarrollo software]
 - **Fecha de Creación:** [Fecha de creación]
 - **Fecha de Entrega:** [18/10/24]
 - **Alumno(s):** 
@@ -68,7 +68,7 @@ Práctica 1: Introducción al desarrollo. Reflexiones.
 [Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
 
 ## Referencias y Fuentes
-[Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
+[https://www.computerweekly.com/es/cronica/Los-desarrolladores-prefieren-los-lenguajes-JVM-para-dispositivos-moviles-y-empresas#:~:text=La%20JVM%20admite%20una%20gran,%2C%20Pizza%2C%20Pnuts%20y%20Xtend. -  https://apuntes.de/python/programacion-funcional-en-python-enfoque-modular-y-reutilizable/#gsc.tab=0 - https://immune.institute/blog/programacion-orientada-a-objetos/#:~:text=El%20paradigma%20orientado%20a%20objetos,sistemas%20de%20manera%20m%C3%A1s%20intuitiva. - https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/compilador-e-interprete/#:~:text=%C2%BFQu%C3%A9%20es%20un%20compilador%3F,c%C3%B3digo%20m%C3%A1quina%20antes%20de%20comenzar.]
 
 ### Notas Adicionales:
 1. **Nombres de Archivos y Repositorios:**
@@ -158,7 +158,7 @@ Práctica 1: Introducción al desarrollo. Reflexiones.
    
    3.3 ¿Qué ventajas ofrece el código intermedio? Ofrece portabilidad, Seguridad y optimización en tiempo de uso
    
-   3.4 ¿Además de java, qué otros lenguajes usan máquinas virtuales? Kotlin, C#, Groovy, Scala, jRuby.  https://www.computerweekly.com/es/cronica/Los-desarrolladores-prefieren-los-lenguajes-JVM-para-dispositivos-moviles-y-empresas#:~:text=La%20JVM%20admite%20una%20gran,%2C%20Pizza%2C%20Pnuts%20y%20Xtend.
+   3.4 ¿Además de java, qué otros lenguajes usan máquinas virtuales? Kotlin, C#, Groovy, Scala, jRuby.  
    # 4.Lenguaje de Programación
 
    ## Primera parte
@@ -183,7 +183,7 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
 
   4.3.2 ¿Cómo es diferente trabajar en un enfoque funcional en paython, usando funciones puras?
   Pues que son mas faciles de entender y depurar, porque nunca cambian el estado de un programa y siempre es el mismo resultado.
-  https://apuntes.de/python/programacion-funcional-en-python-enfoque-modular-y-reutilizable/#gsc.tab=0
+ 
 
   # 4.4 Reflexión Final
   4.4.1 ¿Qué lenguajes se sintieron mas faciles de utilizar? ¿Por qué?
@@ -196,7 +196,7 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   Cuando quieres que un humano lo entienda y sea mas sencillo de escribir y abstracto para el.
   
   4.4.4 ¿Como se siente trabajar con el paradigma orientado a objetos en comparación con el imperativo o funcional?
-  Se siente mas intuitivo, una organización mas lógica y comprensiva del software   https://immune.institute/blog/programacion-orientada-a-objetos/#:~:text=El%20paradigma%20orientado%20a%20objetos,sistemas%20de%20manera%20m%C3%A1s%20intuitiva.
+  Se siente mas intuitivo, una organización mas lógica y comprensiva del software   
 
   # 5. Herramientas de Desarrollo
   ### Primera Parte
@@ -229,7 +229,7 @@ Pues que los de alto nivel son mas faciles de entender por los humanos y los de 
   Editor de Texto: Pues tienes conocer muchos comandos para que sea mas ligero y fluido y ser mas sencillo, si conoces mucho los comandos es facil, si no se te puede hacer complejo
 
   5.1.5 Elige una ¿En qué situaciones sería ideal utilziar esta herramienta?
-  Compiladores: Para crear programas que sean mas eficientes y rapidos y traducir el código fuente  de un proyecto de software a código maquina antes de ejecutarlo https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/compilador-e-interprete/#:~:text=%C2%BFQu%C3%A9%20es%20un%20compilador%3F,c%C3%B3digo%20m%C3%A1quina%20antes%20de%20comenzar.
+  Compiladores: Para crear programas que sean mas eficientes y rapidos y traducir el código fuente  de un proyecto de software a código maquina antes de ejecutarlo 
   
   5.1.6 Elige una ¿Qué limitaciones encontraste en la herramienta?
   El problema de formato, Compatibilidad entre plataformas, como no los guardes puedes perder los datos, complejidad de comandos y de las diferentes herramientas
