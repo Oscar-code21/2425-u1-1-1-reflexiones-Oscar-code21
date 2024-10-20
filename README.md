@@ -68,7 +68,9 @@ Práctica 1: Introducción al desarrollo. Reflexiones.
 [Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
 
 ## Referencias y Fuentes
-[https://www.computerweekly.com/es/cronica/Los-desarrolladores-prefieren-los-lenguajes-JVM-para-dispositivos-moviles-y-empresas#:~:text=La%20JVM%20admite%20una%20gran,%2C%20Pizza%2C%20Pnuts%20y%20Xtend. -  https://apuntes.de/python/programacion-funcional-en-python-enfoque-modular-y-reutilizable/#gsc.tab=0 - https://immune.institute/blog/programacion-orientada-a-objetos/#:~:text=El%20paradigma%20orientado%20a%20objetos,sistemas%20de%20manera%20m%C3%A1s%20intuitiva. - https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/compilador-e-interprete/#:~:text=%C2%BFQu%C3%A9%20es%20un%20compilador%3F,c%C3%B3digo%20m%C3%A1quina%20antes%20de%20comenzar.]
+[https://www.computerweekly.com/es/cronica/Los-desarrolladores-prefieren-los-lenguajes-JVM-para-dispositivos-moviles-y-empresas#:~:text=La%20JVM%20admite%20una%20gran,%2C%20Pizza%2C%20Pnuts%20y%20Xtend. 
+https://apuntes.de/python/programacion-funcional-en-python-enfoque-modular-y-reutilizable/#gsc.tab=0 - 
+https://immune.institute/blog/programacion-orientada-a-objetos/#:~:text=El%20paradigma%20orientado%20a%20objetos,sistemas%20de%20manera%20m%C3%A1s%20intuitiva. - https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/compilador-e-interprete/#:~:text=%C2%BFQu%C3%A9%20es%20un%20compilador%3F,c%C3%B3digo%20m%C3%A1quina%20antes%20de%20comenzar.]
 
 ### Notas Adicionales:
 1. **Nombres de Archivos y Repositorios:**
