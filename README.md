@@ -10,16 +10,17 @@ Apoyate en los siguientes recursos para realizar la práctica:
 ---
 
 # Título de la Actividad
+Práctica 1: Introducción al desarrollo. Reflexiones.
 
 ## Identificación de la Actividad
 - **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
+- **Módulo:** [EDES] (`PROG`, `IS`, `EDES`, etc.)
 - **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
 - **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **Fecha de Entrega:** [18/10/24]
 - **Alumno(s):** 
   - **Nombre y Apellidos:** [Óscar Arriaza Gómez]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
+  - **Correo electrónico:** [oarrgoma1905@g.educaand.es]
   - **Iniciales del Alumno/Grupo:** [OAG]
 
 ## Descripción de la Actividad
